@@ -1,0 +1,36 @@
+<html>
+<head>
+<title> Home </title>
+</head>
+<body bgcolor=red>
+<font size=20 color=white>
+<center> Home page of the LFC fanpage
+</font> </center>
+</br> <marquee direction="left>
+<tr><td>
+<a href="https://www.liverpoolfc.com/fixtures/mens/2023"><b><i><u>
+Fixtures 	
+</a></u></i></b>
+</br>
+<a href="https://www.liverpoolfc.com/results/mens/2023"><b><i><u>
+Results
+</a></u></i></b>
+</br>
+<a href="https://www.liverpoolfc.com/tables/mens/2023"><b><i><u>
+Premiere League table
+</a></u></i></b>
+</br>
+<a href="https://store.liverpoolfc.com/kit/home-kit/mens?_gl=1*bmnkhe*_ga*NDc0MDM5ODI0LjE2OTkzNTYyMDc.*_ga_Z85D72KGRP*MTY5OTM1NjIwOC4xLjEuMTY5OTM1NjYyOC41OS4wLjA.&productListPgNo=1"><b><i><u>
+Men's Kit 
+</a></u></i></b>
+</br>
+<a href="https://store.liverpoolfc.com/kit/home-kit/womens?_gl=1*1qombf*_ga*NDc0MDM5ODI0LjE2OTkzNTYyMDc.*_ga_Z85D72KGRP*MTY5OTM1NjIwOC4xLjEuMTY5OTM1NjY2Ny4yMC4wLjA."><b><i><u>
+Women's Kit
+</a></u></i></b></marquee>
+</br>
+<center>
+<img src="https://logowik.com/content/uploads/images/526_liverpoolfc.jpg" width="720" height="340">
+</center>
+</td></tr>
+</body>
+</html>
